@@ -9,8 +9,8 @@ This GitHub Repository will include the Source Code for the [Java Puzzles to Eli
 ### Note for newcomers
 
 Checkout our complete course on the following platforms:
-1. [Udemy](https://www.udemy.com/course/the-complete-python-developer-certification-course/)
-2. [Job Ready Programmer (JRP)](https://www.jobreadyprogrammer.com/p/the-complete-python-certification-course)
+1. [Udemy](https://www.udemy.com/course/eliminate-code-fear/)
+2. [Job Ready Programmer (JRP)](https://www.jobreadyprogrammer.com/p/learn-java-through-coding-puzzles-eliminate-code-fear)
 3. [JRP Membership (Includes Data Analyst & Software Developer Career Paths)](https://www.jobreadyprogrammer.com/p/all-access-pass?coupon_code=GET_HIRED_ALREADY)
 
 ## About the course :
